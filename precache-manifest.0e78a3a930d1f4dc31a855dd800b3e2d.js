@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0b2189cc6cced7c0d5ffbb9ca753514e",
+    "revision": "34c64f66aa9427612680f59bd137f9ef",
     "url": "/sa-demo2/index.html"
   },
   {
-    "revision": "aa8df04762933db904dd",
+    "revision": "4169d26aeca39bac8d22",
     "url": "/sa-demo2/static/css/main.2c1dcc13.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sa-demo2/static/js/2.aa54ecf2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "aa8df04762933db904dd",
-    "url": "/sa-demo2/static/js/main.ca03867f.chunk.js"
+    "revision": "4169d26aeca39bac8d22",
+    "url": "/sa-demo2/static/js/main.0415edcc.chunk.js"
   },
   {
     "revision": "f69ef308d3509e1be64e",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sa-demo2/static/media/SA_Co_Shield-1.ff0cb9a3.png"
   },
   {
-    "revision": "a351e1592b3adb6a52d7d64db357b2da",
-    "url": "/sa-demo2/static/media/UPF30.a351e159.png"
+    "revision": "3fa77e180c6d18dbcf3db223c20156f2",
+    "url": "/sa-demo2/static/media/UPF30.3fa77e18.png"
   },
   {
     "revision": "73299802fcdd5d91bde6e22fa125f8b3",
