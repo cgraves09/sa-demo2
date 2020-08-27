@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "SA SINGLE ARM SHIELD™ | BLACKOUT AMERICAN FLAG",
+    "color": ["black", "flag"],
+    "price": "14.99",
+    "image": "https://s3.amazonaws.com/sav3-assets/wp-content/uploads/2018/08/15094815/BlackoutSLeeve1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "SA Single Arm Shield™ | Black | Small Shield",
+    "color": ["black"],
+    "price": "14.99",
+    "image": "https://s3.amazonaws.com/sav3-assets/wp-content/uploads/2018/05/15094736/SA-A50002_Arm-Sleeves_Black_Small-Shield-2-400x400.jpg"
+  },
+  {
+    "id": 3,
+    "name": "SA Single Arm Shield™ | American Flag",
+    "color": ["red", "white", "blue", "flag"],
+    "price": "14.99",
+    "image": "https://s3.amazonaws.com/sav3-assets/wp-content/uploads/2018/08/15094826/AmericanSleeve1-400x400.jpg"
+  },
+  {
+    "id": 4,
+    "name": "SA Single Arm Shield™ | White | Grey Small Logo",
+    "color": ["white"],
+    "price": "14.99",
+    "image": "https://s3.amazonaws.com/sav3-assets/wp-content/uploads/2018/08/15095105/White-Side-2-400x400.jpg"
+  },
+  {
+    "id": 5,
+    "name": "SA Single Arm Shield™ | Steel Soldier",
+    "color": ["black", "white", "grey"],
+    "price": "14.99",
+    "image": "https://s3.amazonaws.com/sav3-assets/wp-content/uploads/2019/10/29115453/Arm4.jpg"
+  },
+  {
+    "id": 6,
+    "name": "SA Single Arm Shield™ | Neon Lime | Small Shield",
+    "color": ["neon"],
+    "price": "14.99",
+    "image": "https://s3.amazonaws.com/sav3-assets/wp-content/uploads/2018/08/15095612/NeonLimeGreenSleeve-400x400.jpg"
+  },
+  {
+    "id": 7,
+    "name": "SA Single Arm Shield™ | Digi Camo | Ghost",
+    "color": ["camo", "white", "grey"],
+    "price": "14.99",
+    "image": "https://s3.amazonaws.com/sav3-assets/wp-content/uploads/2019/02/15095128/WHITEOUT-DIGI1-400x400.jpg"
+  },
+  {
+    "id": 8,
+    "name": "SA Single Arm Shield™ | USA",
+    "color": ["red", "white", "blue", "flag"],
+    "price": "14.99",
+    "image": "https://s3.amazonaws.com/sav3-assets/wp-content/uploads/2018/08/15095047/USASLeeve-400x400.jpg"
+  },
+  {
+    "id": 10,
+    "name": "SA Single Arm Shield™ | Whiteout American Flag",
+    "color": ["grey", "white", "flag"],
+    "price": "14.99",
+    "image": "https://s3.amazonaws.com/sav3-assets/wp-content/uploads/2018/11/15095645/WhiteoutSLeeve11-400x400.jpg"
+  },
+  {
+    "id": 11,
+    "name": "SA Single Arm Shield™ | Digi Camo | Green",
+    "color": ["green", "camo"],
+    "price": "14.99",
+    "image": "https://s3.amazonaws.com/sav3-assets/wp-content/uploads/2019/02/15095151/GREEN-DIGI1-400x400.jpg"
+  },
+  {
+    "id": 12,
+    "name": "SA Single Arm Shield™ | Neon Orange | Small Black Shield",
+    "color": ["neon", "orange"],
+    "price": "14.99",
+    "image": "https://s3.amazonaws.com/sav3-assets/wp-content/uploads/2018/10/15095956/SA-A500351-400x400.jpg"
+  },
+  {
+    "id": 13,
+    "name": "SA Single Arm Shield™ | Blue Flames",
+    "color": ["blue", "white"],
+    "price": "14.99",
+    "image": "https://s3.amazonaws.com/sav3-assets/wp-content/uploads/2019/02/15095116/BLUE-FLAMES2-400x400.jpg"
+  }
+]
